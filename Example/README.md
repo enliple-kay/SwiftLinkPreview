@@ -1,3 +1,0 @@
-# Example
-
-Run `pod install`
